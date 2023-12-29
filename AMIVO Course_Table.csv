@@ -1,0 +1,7 @@
+"serial_no","course_code","course_name","course_unit","department_id"
+1,"PY111","Python",2,"DS001"
+2,"ML211","Machine Learning",3,"DS001"
+3,"HC111","HTML&CSS",2,"FS002"
+4,"NJ211","NodeJS",3,"FS002"
+5,"SE111","Search Engine Optimization",2,"DM003"
+6,"CW211","Copywriting",3,"DM003"
